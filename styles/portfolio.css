@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+justify-content: space-between;
+}
+.text-primary{
+    color: darkorange;
+}
+.nav-title{
+    color:#181818;
+    font-family: open sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+ .btn-primary{
+    border-radius: 5px;  
+    background-color: chocolate;
+  }
+nav ul {
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav a {
+    text-decoration: none;
+    color: blue;
+}
